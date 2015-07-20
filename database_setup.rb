@@ -34,3 +34,7 @@ ActiveRecord::Base.logger = ActiveSupport::Logger.new(STDOUT)
 # Database
 require_relative 'database_setup.rb'
 
+# Models
+
+
+# Controllers
