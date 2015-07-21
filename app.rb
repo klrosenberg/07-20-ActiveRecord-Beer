@@ -6,6 +6,7 @@ require "sinatra"
 require "sinatra/reloader"
 require "bcrypt"
 require "active_record"
+require "json"
 
 configure :development do
   require "sqlite3"
